@@ -1,0 +1,2 @@
+# Place family-approved photographs in this folder.
+# Then set heroImage in src/content/campaign.ts, e.g. "/images/family.jpg"
